@@ -70,7 +70,9 @@ var config = {
     devServer: {
         historyApiFallback: true,
         noInfo: true,
-        compress: true
+        compress: true,
+        host: '0.0.0.0',
+        disableHostCheck: true
     },
     devtool: "#eval-source-map",
     watch: true,

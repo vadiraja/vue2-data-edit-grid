@@ -1,9 +1,9 @@
 {
-  "name": "vu2-data-edit-grid",
+  "name": "vue2-data-edit-grid",
   "description": "Component framework written on top of the Vutiful library",
   "version": "0.1.0",
   "author": "Vadiraja",
-  "repository": "https://github.com/vadiraja/vu2-data-edit-grid.git",
+  "repository": "https://github.com/vadiraja/vue2-data-edit-grid.git",
   "license": "MIT",
   "private": true,
   "scripts": {
